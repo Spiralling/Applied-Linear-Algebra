@@ -43,6 +43,3 @@ plt.xlabel('Residuals')
 
 plt.tight_layout()
 plt.show()
-
-# Analyzing the shape of the histogram
-print("Histograms plotted. Check for normality visually.")
